@@ -4,7 +4,7 @@ These are the 3 different tasks which were given to me during my application pro
 
 I tried my best to comment everything so all the code becomes easier to read, but I will make this README file anyway, just in case.
 
-These tasks were submitted on 4th of December and awaiting for response, but I promise to add README file here as well
+These tasks were submitted on 4th of December and awaiting for response, but I promise to add README file here as well soon
 
 ## Installation
 
